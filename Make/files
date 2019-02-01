@@ -1,0 +1,3 @@
+normalCenterCalc.C
+
+EXE = $(FOAM_APPBIN)/normalCenterCalc
